@@ -1,0 +1,238 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem[\protect\citeauthoryear{??}{Wik}{2014}]%
+        {WikiCerberus}
+ 2014.
+\newblock Cerberus.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://en.wikipedia.org/wiki/Cerberus}}
+
+
+\bibitem[\protect\citeauthoryear{Al-Muhtadi, Ranganathan, Campbell, and
+  Mickunas}{Al-Muhtadi et~al\mbox{.}}{2003}]%
+        {Muhtadi03}
+{Jalal Al-Muhtadi}, {Anand Ranganathan}, {Roy Campbell}, {and} {M.~Dennis
+  Mickunas}. 2003.
+\newblock \showarticletitle{Cerberus: A Context-Aware Security Scheme for Smart
+  Spaces}. In {\em Proceedings of the First IEEE Conference on Pervasive
+  Computing and Communications}. IEEE Computer Society.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bergmann, Gerfes, and Bormann}{Bergmann
+  et~al\mbox{.}}{2012}]%
+        {Bergmann12}
+{Olaf Bergmann}, {S Gerfes}, {and} {Carsten Bormann}. 2012.
+\newblock \showarticletitle{Simple Keys for Simple Smart Objects}. In {\em
+  Workshop on Smart Object Security}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bohge and Trappe}{Bohge and Trappe}{2003}]%
+        {Bohge03}
+{Mathias Bohge} {and} {Wade Trappe}. 2003.
+\newblock \showarticletitle{An Authentication Framework for Hierarchical Ad Hoc
+  Sensor Networks}. In {\em Proceedings of the 2Nd ACM Workshop on Wireless
+  Security} {\em (WiSe '03)}. ACM, 79--87.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chow, Jakobsson, Masuoka, Molina, Niu, Shi,
+  and Song}{Chow et~al\mbox{.}}{2010}]%
+        {Chow10}
+{Richard Chow}, {Markus Jakobsson}, {Ryusuke Masuoka}, {Jesus Molina}, {Yuan
+  Niu}, {Elaine Shi}, {and} {Zhexuan Song}. 2010.
+\newblock \showarticletitle{Authentication in the Clouds: A Framework and Its
+  Application to Mobile Users}. In {\em Proceedings of the 2010 ACM Workshop on
+  Cloud Computing Security Workshop} {\em (CCSW '10)}. ACM, 1--6.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Council}{Council}{2005}]%
+        {FFIEC05}
+{Federal Financial Institutions~Examination Council}. 2005.
+\newblock \showarticletitle{Authentication in an internet banking environment}.
+\newblock {\em Financial Institution Letter, FIL-103-2005. Washington, DC:
+  Federal Deposit Insurance Corp.(FDIC). Retrieved March\/}  {18} (2005).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Covington, Moyer, and Ahamad}{Covington
+  et~al\mbox{.}}{2000}]%
+        {Covington00}
+{Michael~J Covington}, {Matthew~James Moyer}, {and} {Mustaque Ahamad}. 2000.
+\newblock \showarticletitle{Generalized role-based access control for securing
+  future applications}.
+\newblock  (2000).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Creese, Goldsmith, Roscoe, and
+  Zakiuddin}{Creese et~al\mbox{.}}{2004}]%
+        {Creese04}
+{Sadie Creese}, {Michael Goldsmith}, {Bill Roscoe}, {and} {Irfan Zakiuddin}.
+  2004.
+\newblock \showarticletitle{Authentication for pervasive computing}.
+\newblock In {\em Security in pervasive computing}. Springer, 116--129.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dinh, Lee, Niyato, and Wang}{Dinh
+  et~al\mbox{.}}{2013}]%
+        {Dinh13}
+{Hoang~T Dinh}, {Chonho Lee}, {Dusit Niyato}, {and} {Ping Wang}. 2013.
+\newblock \showarticletitle{A survey of mobile cloud computing: architecture,
+  applications, and approaches}.
+\newblock {\em Wireless communications and mobile computing\/} {13}, 18 (2013),
+  1587--1611.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ferraiolo, Barkley, and Kuhn}{Ferraiolo
+  et~al\mbox{.}}{1999}]%
+        {Ferraiolo99}
+{David~F. Ferraiolo}, {John~F. Barkley}, {and} {D.~Richard Kuhn}. 1999.
+\newblock \showarticletitle{A Role-based Access Control Model and Reference
+  Implementation Within a Corporate Intranet}.
+\newblock {\em ACM Trans. Inf. Syst. Secur.\/} {2}, 1 (1999), 34--64.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Forn\'e, Hinarejos, Mar\'in, Almen\'arez,
+  Lopez, Montenegro, Lacoste, and D\'iaz}{Forn\'e et~al\mbox{.}}{2010}]%
+        {Forne10}
+{Jordi Forn\'e}, {Francisca Hinarejos}, {Andr\'es Mar\'in}, {Florina
+  Almen\'arez}, {Javier Lopez}, {Jose~A. Montenegro}, {Marc Lacoste}, {and}
+  {Daniel D\'iaz}. 2010.
+\newblock \showarticletitle{Pervasive authentication and authorization
+  infrastructures for mobile users}.
+\newblock {\em Computers and Security\/}  {29} (2010), 501--514.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Grandison and Sloman}{Grandison and
+  Sloman}{2000}]%
+        {Grandison00}
+{Tyrone Grandison} {and} {Morris Sloman}. 2000.
+\newblock \showarticletitle{A survey of trust in internet applications}.
+\newblock {\em Communications Surveys \& Tutorials, IEEE\/} {3}, 4 (2000),
+  2--16.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hong and Landay}{Hong and Landay}{2004}]%
+        {Hong04}
+{Jason~I Hong} {and} {James~A Landay}. 2004.
+\newblock \showarticletitle{An architecture for privacy-sensitive ubiquitous
+  computing}. In {\em Proceedings of the 2nd international conference on Mobile
+  systems, applications, and services}. ACM, 177--189.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hummen, Ziegeldorf, Shafagh, Raza, and
+  Wehrle}{Hummen et~al\mbox{.}}{2013}]%
+        {Hummen13}
+{Ren{\'e} Hummen}, {Jan~H Ziegeldorf}, {Hossein Shafagh}, {Shahid Raza}, {and}
+  {Klaus Wehrle}. 2013.
+\newblock \showarticletitle{Towards viable certificate-based authentication for
+  the internet of things}. In {\em Proceedings of the 2nd ACM workshop on Hot
+  topics on wireless network security and privacy}. ACM, 37--42.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kagal, Finin, and Joshi}{Kagal
+  et~al\mbox{.}}{2001}]%
+        {Kagal01}
+{Lalana Kagal}, {Tim Finin}, {and} {Anupam Joshi}. 2001.
+\newblock \showarticletitle{Trust-based security in pervasive computing
+  environments}.
+\newblock {\em Computer\/} {34}, 12 (2001), 154--157.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ranganathan, Al-Muhtadi, and
+  Campbell}{Ranganathan et~al\mbox{.}}{2004}]%
+        {Ranganathan04}
+{Anand Ranganathan}, {Jalal Al-Muhtadi}, {and} {Roy~H Campbell}. 2004.
+\newblock \showarticletitle{Reasoning about uncertain contexts in pervasive
+  computing environments}.
+\newblock {\em IEEE Pervasive Computing\/} {3}, 2 (2004), 62--70.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Rom{\'a}n, Hess, Cerqueira, Ranganathan,
+  Campbell, and Nahrstedt}{Rom{\'a}n et~al\mbox{.}}{2002}]%
+        {Roman02}
+{Manuel Rom{\'a}n}, {Christopher Hess}, {Renato Cerqueira}, {Anand
+  Ranganathan}, {Roy~H Campbell}, {and} {Klara Nahrstedt}. 2002.
+\newblock \showarticletitle{A middleware infrastructure for active spaces}.
+\newblock {\em IEEE pervasive computing\/} {1}, 4 (2002), 74--83.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sandhu, Coyne, Feinstein, and Youman}{Sandhu
+  et~al\mbox{.}}{1996}]%
+        {Sandhu96}
+{Ravi~S Sandhu}, {Edward~J Coyne}, {Hal~L Feinstein}, {and} {Charles~E Youman}.
+  1996.
+\newblock \showarticletitle{Role-based access control models}.
+\newblock {\em Computer\/} {29}, 2 (1996), 38--47.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Subashini and Kavitha}{Subashini and
+  Kavitha}{2011}]%
+        {Subashini11}
+{Subashini Subashini} {and} {V Kavitha}. 2011.
+\newblock \showarticletitle{A survey on security issues in service delivery
+  models of cloud computing}.
+\newblock {\em Journal of Network and Computer Applications\/} {34}, 1 (2011),
+  1--11.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Weiser, Gold, and Brown}{Weiser
+  et~al\mbox{.}}{1999}]%
+        {Weiser99}
+{Mark Weiser}, {Rich Gold}, {and} {John~Seely Brown}. 1999.
+\newblock \showarticletitle{The origins of ubiquitous computing research at
+  PARC in the late 1980s}.
+\newblock {\em IBM systems journal\/} {38}, 4 (1999), 693--696.
+\newblock
+
+
+\end{thebibliography}

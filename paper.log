@@ -1,0 +1,388 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 DEC 2014 20:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**paper.tex -recorder
+(./paper.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./acmtog_classpaper.cls
+Document Class: acmtog_classpaper 2012/03/07
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/texmf-local/tex/latex/acmtog/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\trimheight=\dimen102
+\trimwidth=\dimen103
+\typeheight=\dimen104
+\typewidth=\dimen105
+\normaltextheight=\dimen106
+\blindfoliodrop=\dimen107
+\tempbox=\box26
+\tempdimen=\dimen108
+\normaltextheight=\dimen109
+\c@secnumbookdepth=\count79
+\c@theorem=\count80
+\c@strategy=\count81
+\c@property=\count82
+\c@proposition=\count83
+\c@exam=\count84
+\c@part=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\belowcaptionskip=\skip41
+\tbbox=\box27
+\tabledim=\dimen110
+\@narrowfig=\dimen111
+\@nfigbox=\box28
+\@nfcapbox=\box29
+\@abstract=\box30
+\@terms=\box31
+\@keywords=\box32
+\bibindent=\dimen112
+LaTeX Info: Redefining \cal on input line 1051.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+\symboldlasy=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 137.
+LaTeX Info: Redefining \bm on input line 203.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen115
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 39.
+\pmbraise@=\dimen116
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip11
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks18
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count105
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen124
+\scratchbox=\box35
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen125
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 44.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 44.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+Non-PDF special ignored!
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 74.
+
+<images/cerberus_overview.png, id=8, 910.40125pt x 695.59875pt>
+File: images/cerberus_overview.png Graphic file (type png)
+
+<use images/cerberus_overview.png>
+Package pdftex.def Info: images/cerberus_overview.png used on input line 77.
+(pdftex.def)             Requested size: 199.16928pt x 152.17247pt.
+
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 84.
+ [2]
+Underfull \vbox (badness 3428) has occurred while \output is active []
+
+
+<images/cerberus_context_infrastructure.png, id=15, 628.3475pt x 483.8075pt>
+File: images/cerberus_context_infrastructure.png Graphic file (type png)
+
+<use images/cerberus_context_infrastructure.png>
+Package pdftex.def Info: images/cerberus_context_infrastructure.png used on inp
+ut line 89.
+(pdftex.def)             Requested size: 199.16928pt x 153.35248pt.
+ [3 <./images/cerberus_overview.png> <./images/cerberus_context_infrastructure.
+png>]
+<images/pervasivePKI_trustcurve.png, id=22, 1099.10625pt x 638.385pt>
+File: images/pervasivePKI_trustcurve.png Graphic file (type png)
+
+<use images/pervasivePKI_trustcurve.png>
+Package pdftex.def Info: images/pervasivePKI_trustcurve.png used on input line 
+108.
+(pdftex.def)             Requested size: 241.84842pt x 140.4646pt.
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3895) has occurred while \output is active []
+
+ [4 <./images/pervasivePKI_trustcurve.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<images/bohge03.png, id=26, 546.04pt x 401.5pt>
+File: images/bohge03.png Graphic file (type png)
+ <use images/bohge03.png>
+Package pdftex.def Info: images/bohge03.png used on input line 132.
+(pdftex.def)             Requested size: 199.16928pt x 146.44519pt.
+
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+ [5 <./images/bohge03.png>] <images/delegation.png, id=30, 763.85374pt x 350.30
+875pt>
+File: images/delegation.png Graphic file (type png)
+
+<use images/delegation.png>
+Package pdftex.def Info: images/delegation.png used on input line 146.
+(pdftex.def)             Requested size: 199.16928pt x 91.34004pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images/delegation.png>] (./paper.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 48--54
+[]\OT1/ptm/m/n/9 Jalal Al-Muhtadi, Anand Ran-ganathan, Roy Camp-bell, and
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 77--83
+[]\OT1/ptm/m/n/9 Richard Chow, Markus Jakob-s-son, Ryusuke Ma-suoka, Je-sus
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 97--102
+[]\OT1/ptm/m/n/9 Michael J Cov-ing-ton, Matthew James Moyer, and Mus-taque
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 138--145
+[]\OT1/ptm/m/n/9 Jordi Forn[]e, Fran-cisca Hinare-jos, Andr[]es Mar[]^^Pn, Flo-
+rina Al-
+ []
+
+[7]) [8
+
+] (./paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 3080 strings out of 493117
+ 40843 string characters out of 6135433
+ 112368 words of memory out of 5000000
+ 6468 multiletter control sequences out of 15000+600000
+ 37720 words of font info for 98 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,9n,25p,1358b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.en
+c}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/lo
+cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper.pdf (8 pages, 584966 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

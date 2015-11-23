@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper.aux
+The style file: ACM-Reference-Format-Journals.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--no key, author in WikiCerberus
+Warning--no author, editor, organization, or key in WikiCerberus
+Warning--to sort, need author or key in WikiCerberus
+Warning--no key, author in WikiCerberus
+Warning--no key, author in WikiCerberus
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in WikiCerberus
+Warning--no author, editor, organization, or key in WikiCerberus
+Warning--empty address in Muhtadi03
+Warning--page numbers missing in both pages and numpages fields in Muhtadi03
+Warning--empty publisher in Bergmann12
+Warning--empty address in Bergmann12
+Warning--page numbers missing in both pages and numpages fields in Bergmann12
+Warning--empty address in Bohge03
+Warning--empty address in Chow10
+Warning--page numbers missing in both pages and numpages fields in FFIEC05
+Warning--no journal in Covington00
+Warning--no number and no volume in Covington00
+Warning--page numbers missing in both pages and numpages fields in Covington00
+Warning--empty address in Creese04
+Warning--empty publisher in Hong04
+Warning--empty address in Hong04
+Warning--empty publisher in Hummen13
+Warning--empty address in Hummen13
+You've used 20 entries,
+            5290 wiz_defined-function locations,
+            1359 strings with 18095 characters,
+and the built_in function-call counts, 22023 in all, are:
+= -- 2945
+> -- 944
+< -- 0
++ -- 308
+- -- 349
+* -- 1511
+:= -- 2379
+add.period$ -- 99
+call.type$ -- 20
+change.case$ -- 149
+chr.to.int$ -- 20
+cite$ -- 47
+duplicate$ -- 1693
+empty$ -- 1213
+format.name$ -- 384
+if$ -- 5423
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 79
+newline$ -- 190
+num.names$ -- 152
+pop$ -- 689
+preamble$ -- 1
+purify$ -- 249
+quote$ -- 0
+skip$ -- 478
+stack$ -- 0
+substring$ -- 1642
+swap$ -- 166
+text.length$ -- 75
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 280
+warning$ -- 23
+while$ -- 142
+width$ -- 0
+write$ -- 372
+(There were 23 warnings)
